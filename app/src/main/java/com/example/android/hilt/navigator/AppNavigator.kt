@@ -16,6 +16,8 @@
 
 package com.example.android.hilt.navigator
 
+import javax.inject.Inject
+
 /**
  * Available screens.
  */
